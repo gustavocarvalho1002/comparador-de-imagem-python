@@ -4,7 +4,10 @@ Está código tem como objetivo fazer a comparação de duas imagens de mesmo ta
 # Exemplo
 
 ### Imagem 1
+![](./imagem1.jpg)
 
 ### Imagem 2 (Rasurada com um rabisco verde)
+![](./imagem2.jpg)
 
 ### Resultado (Retangulos vermelhos mostra onde seria a diferença entre as duas imagens)
+![](./result.png)
